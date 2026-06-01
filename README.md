@@ -35,5 +35,17 @@ This project demonstrates how to create and manage a simple database using SQLit
 - Data analysis using SQL
 - Working with structured datasets
 -
+## Project 4: Data Visualization (Charts & Graphs)
+
+This project visualizes structured data from a SQLite database using Python. It converts numerical data into bar charts and pie charts for better analysis and understanding.
+
+### Skills Demonstrated
+
+- Data visualization using matplotlib
+- Reading data from SQLite database
+- Data transformation using Python lists
+- Analytical thinking with structured data
+- Graphical representation of datasets
+-
 Author
 Nouetakdie Kamgue Clement
