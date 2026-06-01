@@ -23,5 +23,17 @@ Skills Demonstrated
 •	Python Dictionaries
 •	Data Extraction
 -
+## Project 3: SQLite Database Analyzer
+
+This project demonstrates how to create and manage a simple database using SQLite in Python. It stores user data and performs basic analysis such as calculating averages.
+
+### Skills Demonstrated
+
+- SQLite database creation
+- SQL queries (CREATE, INSERT, SELECT)
+- Python database connection
+- Data analysis using SQL
+- Working with structured datasets
+-
 Author
 Nouetakdie Kamgue Clement
